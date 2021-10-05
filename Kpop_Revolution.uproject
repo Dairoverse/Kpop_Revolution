@@ -1,16 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.27",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "AlembicHairImporter",
-			"Enabled": true
-		},
-		{
-			"Name": "HairStrands",
-			"Enabled": true
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:79c57049a321f1955fff557f5519e007a68a7f659b68fc718c6ef7caeb8971b4
+size 236
